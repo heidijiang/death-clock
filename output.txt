@@ -1,8 +1,0 @@
-Heidi 	 29 	 0 	 Dec 12, 2051 	 60 	 Heidi Jiang 	 805 Tularosa Dr 90026 	 9999999
-Heidi 	 30 	 0 	 Nov 3, 2085 	 91 	 Heidi Jiang 	 805 Tularosa Dr 	 2
-Heidi 	 20 	 0 	 Feb 10, 2061 	 105 	 y 	 2
-Heidi 	 28 	 0 	 Mar 20, 2077 	 66 	 y 	 3
-Ben 	 31 	 0 	 Mar 16, 2064 	 85 	 y 	 6.66
-Ben 	 12 	 0 	 Oct 10, 2083 	 74 	 n 	 N/A
-HEIDI 	 29 	 0 	 May 12, 2088 	 79 	 y 	 8888
-Heidi Jiang 	 88 	 0 	 Aug 30, 2028 	 97 	 y 	 8
